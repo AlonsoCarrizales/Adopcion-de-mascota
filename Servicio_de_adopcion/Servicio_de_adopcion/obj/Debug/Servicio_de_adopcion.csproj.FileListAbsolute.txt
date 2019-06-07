@@ -1,0 +1,7 @@
+C:\Users\A\source\repos\Servicio_de_adopcion\Servicio_de_adopcion\bin\Debug\Servicio_de_adopcion.exe.config
+C:\Users\A\source\repos\Servicio_de_adopcion\Servicio_de_adopcion\bin\Debug\Servicio_de_adopcion.exe
+C:\Users\A\source\repos\Servicio_de_adopcion\Servicio_de_adopcion\bin\Debug\Servicio_de_adopcion.pdb
+C:\Users\A\source\repos\Servicio_de_adopcion\Servicio_de_adopcion\obj\Debug\Servicio_de_adopcion.csprojAssemblyReference.cache
+C:\Users\A\source\repos\Servicio_de_adopcion\Servicio_de_adopcion\obj\Debug\Servicio_de_adopcion.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\Servicio_de_adopcion\Servicio_de_adopcion\obj\Debug\Servicio_de_adopcion.exe
+C:\Users\A\source\repos\Servicio_de_adopcion\Servicio_de_adopcion\obj\Debug\Servicio_de_adopcion.pdb
