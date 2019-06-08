@@ -9,6 +9,8 @@ namespace Servicio_de_adopcion
     class Servicio
     {
         private string NombreP;
+        Persona Persona = new Persona();
+        Masacota Masacota = new Masacota();
         public Servicio()
         {
             Console.WriteLine("Bienvenido a servicio de Adopción");
